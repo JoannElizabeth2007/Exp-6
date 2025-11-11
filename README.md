@@ -36,7 +36,20 @@ The system ensures high performance, security, usability, and reliability, suppo
 Planned upgrades include online payment integration, automatic hall ticket generation, and online proctoring for remote exams.
 
 # DIAGRAMS:
-(upload all 6 diagrams)
+
+## USE CASE DIAGRAM
+<img width="1096" height="808" alt="image" src="https://github.com/user-attachments/assets/088b7052-bee3-456d-a4f3-38c61add2f94" />
+
+## CLASS DIAGRAM 
+<img width="1074" height="737" alt="image" src="https://github.com/user-attachments/assets/a8dd4281-769e-43b1-b212-d0a7e75f98fc" />
+
+## PACKAGE DIAGRAM
+<img width="1141" height="786" alt="image" src="https://github.com/user-attachments/assets/450218a2-c44a-4a6d-81f6-6d73f302ec28" />
+
+## SEQUENCE DIAGRAM
+<img width="1006" height="818" alt="image" src="https://github.com/user-attachments/assets/4fb7404a-7944-452b-b821-502b82445055" />
+
+## COMMUNICATION DIAGRAM
 
 # RESULT:
 
