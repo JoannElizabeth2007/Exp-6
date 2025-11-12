@@ -50,7 +50,10 @@ Planned upgrades include online payment integration, automatic hall ticket gener
 <img width="1006" height="818" alt="image" src="https://github.com/user-attachments/assets/4fb7404a-7944-452b-b821-502b82445055" />
 
 ## COMMUNICATION DIAGRAM
+<img width="1049" height="848" alt="image" src="https://github.com/user-attachments/assets/da061b3f-ef4f-4b87-8a93-7bfe11cdbc8f" />
+
+## ACTIVITY DIAGRAM
+<img width="716" height="828" alt="image" src="https://github.com/user-attachments/assets/a5a53317-bcb0-456a-9bb1-38264c5249a6" />
 
 # RESULT:
-
 Thus the Student Online Exam Registration System project was executed and the output was verified.
